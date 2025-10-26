@@ -5,8 +5,8 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "glyphmatics"
 version = "0.1.0"
-description = "Unified tensor-network engine for quantum-gravity-ARC-defense-policy-quasicrystal"
-authors = [{name = "xxNine1Eightxx", email = "xxnine1eightxx@example.com"}]
+description = "Unified tensor engine: Quantum-Gravity-ARC-Defense-Policy-Quasicrystal"
+authors = [{name = "xxNine1Eightxx"}]
 license = {text = "MIT"}
 readme = "README.md"
 requires-python = ">=3.9"
@@ -14,8 +14,7 @@ dependencies = ["numpy>=1.24"]
 
 [project.optional-dependencies]
 test = ["pytest", "pytest-cov"]
-docs = ["sphinx", "myst-parser", "sphinx-rtd-theme"]
-dev = ["black", "ruff", "pre-commit"]
+dev = ["black", "ruff"]
 
 [tool.setuptools.packages.find]
 where = ["src"]
