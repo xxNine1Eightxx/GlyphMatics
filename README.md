@@ -1,4 +1,22 @@
 # GlyphMatics – Unified Tensor-Network Engine  
+# GlyphMatics
+
+**Unified Tensor-Network Engine**  
+Quantum • Gravity • ARC-AGI • Defense • Policy • Quasicrystal
+
+[![CI](https://github.com/xxNine1Eightxx/GlyphMatics/actions/workflows/ci.yml/badge.svg)](https://github.com/xxNine1Eightxx/GlyphMatics/actions)
+
+> **"One tensor to rule them all."**
+
+---
+
+## Quick Start
+
+```bash
+git clone https://github.com/xxNine1Eightxx/GlyphMatics.git
+cd GlyphMatics
+pip install -e .[dev]
+python examples/arc_demo.py
 **Quantum • Gravity • ARC-AGI • Defense • Meta-Policy • Quasicrystal**  
 
 [![CI](https://github.com/xxNine1Eightxx/GlyphMatics/actions/workflows/ci.yml/badge.svg)](https://github.com/xxNine1Eightxx/GlyphMatics/actions)  
