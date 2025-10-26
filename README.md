@@ -23,7 +23,7 @@ Sphinx documentation
 Done
 PyPI publishable
 Done
-�git clone https://github.com/yourname/glyphmatics.git
+�git clone https://github.com/Nine1Eight/glyphmatics.git
 cd glyphmatics
 pip install -e .[dev]
 �from glyphmatics import UnifiedARCComponent, visualize_network
